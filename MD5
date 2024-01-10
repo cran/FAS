@@ -1,0 +1,14 @@
+e71aaae0f88ef540a7fcad695b4d52b7 *DESCRIPTION
+f912ab4285ba7c1ad397e41008a8ce71 *NAMESPACE
+b2b61496bf0e16a2ee03bee3260e50e2 *R/FAS-package.R
+83d8fa4a9ba4dc9fb78506ef139e9bde *R/factorsparsetest.R
+b83aa52da535170deec3282a487ccec3 *R/fitboot.R
+9dfe50f35875bcd20f165f7a3819fd4f *R/fitbootlocal.R
+5afd60de6560644813f1ced8b40e1a22 *R/utilities.R
+96f88c1f78401327e5c649b8d8f64670 *man/FAS-package.Rd
+1ff7705ab538a5005f8ee7986a24b6d8 *man/factorsparsetest.Rd
+ab55a71174bdb73d0a12ea5693bf5a6f *man/lassofit.Rd
+3066f3078d144a8108ca27746cf8a554 *src/FAS_init.c
+986965010d01d44bd513f4ec1b27c0b6 *src/auxiliary.f90
+78756fb3ca9f6e01991db00242296063 *src/fitnoiseF.f90
+85d4fa57ea666d93b14b83cf1be80ec9 *src/maxlambda.f90
